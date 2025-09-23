@@ -1,3 +1,4 @@
+
 body{
     background-color: hsl(47, 88%, 63%);
 }
@@ -74,16 +75,16 @@ span{
     right: 2.1cm;
     color: hsl(0, 0%, 42%);
 }
-footer{
+.footer{
     position: absolute;
     display: flex;
     justify-content: center;
-    bottom:19%;
-    left:40%;
+    top:105%;
+    left:1%;
     gap: 10px;
+    
 }
 .logo img{
-   
     height: 40px;
     width: 40px;
    
@@ -91,7 +92,6 @@ footer{
 .text{
      
     font-family:"Figtree" ;
-   
     font-size:small;
     font-weight: 800;
 
